@@ -1,2 +1,2 @@
 # Statistics-Codes
-This Repository includes all the codes I have developed from my previous projects
+This repository includes all the codes in statistcs I have developed from my previous projects.
